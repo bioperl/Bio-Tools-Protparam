@@ -1,0 +1,10 @@
+.*
+*~
+!.gitignore
+
+# ignore build
+Bio-Tools-Protparam-*
+
+# ignore text editors stuff
+.emacs.*
+*.komodoproject
